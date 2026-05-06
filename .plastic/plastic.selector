@@ -1,0 +1,4 @@
+repository "Map1 2026-05-06_22-11-07/Map1@18968301184340@cloud"
+  path "/"
+    br "/main"
+    co "/main"
